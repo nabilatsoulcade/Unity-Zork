@@ -1,0 +1,17 @@
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\bin\Debug\Zork.Builder.exe.config
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\bin\Debug\Zork.Builder.exe
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\bin\Debug\Zork.Builder.pdb
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\bin\Debug\NodeEditor.dll
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\bin\Debug\SampleCommon.dll
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\bin\Debug\Zork.Common.dll
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\bin\Debug\Zork.Common.pdb
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\obj\Debug\Zork.Builder.csprojAssemblyReference.cache
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\obj\Debug\Zork.Builder.Properties.Resources.resources
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\obj\Debug\Zork.Builder.csproj.GenerateResource.cache
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\obj\Debug\Zork.Builder.csproj.CoreCompileInputs.cache
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\obj\Debug\Zork.Builder.csproj.CopyComplete
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\obj\Debug\Zork.Builder.exe
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\obj\Debug\Zork.Builder.pdb
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\obj\Debug\Zork.Builder.csproj.Fody.CopyLocal.cache
+C:\Users\na127140\Documents\GitHub\ZorkWithTools\Zork.Builder\obj\Debug\Zork.Builder.MainForm.resources

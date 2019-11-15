@@ -1,0 +1,15 @@
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\obj\Debug\netcoreapp2.0\Zork.Game.csprojAssemblyReference.cache
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\obj\Debug\netcoreapp2.0\Zork.Game.csproj.CoreCompileInputs.cache
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\obj\Debug\netcoreapp2.0\Zork.Game.AssemblyInfoInputs.cache
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\obj\Debug\netcoreapp2.0\Zork.Game.AssemblyInfo.cs
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\bin\Debug\netcoreapp2.0\Zork.json
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\bin\Debug\netcoreapp2.0\Zork.Game.deps.json
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\bin\Debug\netcoreapp2.0\Zork.Game.runtimeconfig.json
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\bin\Debug\netcoreapp2.0\Zork.Game.runtimeconfig.dev.json
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\bin\Debug\netcoreapp2.0\Zork.Game.dll
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\bin\Debug\netcoreapp2.0\Zork.Game.pdb
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\bin\Debug\netcoreapp2.0\Zork.Common.dll
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\bin\Debug\netcoreapp2.0\Zork.Common.pdb
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\obj\Debug\netcoreapp2.0\Zork.Game.csproj.CopyComplete
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\obj\Debug\netcoreapp2.0\Zork.Game.dll
+C:\Users\na127140\Documents\ZorkWithTools\Zork.Game\obj\Debug\netcoreapp2.0\Zork.Game.pdb
